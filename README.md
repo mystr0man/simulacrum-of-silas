@@ -1,6 +1,8 @@
 
 # Simulacrum of Silas
 
+NOTE: Switch to BoxScene to play the game.
+
 ITCS 4231 Final Project – A simple puzzle box game. 
 
 Credits: 
